@@ -1,4 +1,4 @@
-# Game Super Mario da época do Nintendo Super Famincom 
+# Game Super Mario do Nintendo Super Famicom 
 
 
 Game super Retrô em Css/ JavaScrit/ Html
